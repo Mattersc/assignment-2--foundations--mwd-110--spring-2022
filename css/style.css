@@ -30,13 +30,16 @@ h2 {
   margin-right: 0px;
   font-weight: bold;
 }
+ul{
+  list-style: none
+}
 
-ul {
+ul main{
   display: table;
 
 
 }
-li {
+li main {
   display: table-cell;
   padding: 5px;
 }
