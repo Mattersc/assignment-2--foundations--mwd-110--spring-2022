@@ -1,7 +1,8 @@
 body{
   background-color: #7D89E6;
 }
-
+nav{
+}
 main{
   text-align: center;
 }
@@ -32,9 +33,12 @@ h2 {
 
 ul {
   display: table;
+
+
 }
 li {
   display: table-cell;
+  padding: 5px;
 }
 
 a { text-decoration: none; color:#000000; }
