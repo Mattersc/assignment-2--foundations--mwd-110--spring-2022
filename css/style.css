@@ -1,8 +1,6 @@
 body{
   background-color: #7D89E6;
 }
-nav{
-}
 main{
   text-align: center;
 }
@@ -19,8 +17,10 @@ h1 {
   margin-left: 0px;
   margin-right: 0px;
   font-weight: bold;
+  font-family: Arial;
   text-align: center;
 }
+
 h2 {
   display: block;
   font-size: 24px;
@@ -30,18 +30,21 @@ h2 {
   margin-right: 0px;
   font-weight: bold;
 }
+
 ul{
   list-style: none
 }
 
 ul1{
   display: table;
-
-
 }
 li1{
   display: table-cell;
   padding: 5px;
+}
+
+.hero-image{
+background-image: url(./img/hero-image.jpg)
 }
 
 a { text-decoration: none; color:#000000; }
