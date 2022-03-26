@@ -16,9 +16,9 @@ h1 {
   margin-bottom: 0px;
   margin-left: 0px;
   margin-right: 0px;
-  font-weight: bold;
-  font-family: Arial;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   text-align: center;
+  color:lightskyblue;
 }
 
 h2 {
@@ -60,6 +60,15 @@ li1{
   background-position: center center;
   background-repeat: no-repeat;
   background-attachment: fixed;
+  background-color: white;
+}
+.btn{
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color: black;
+  display: inline-block;
+  background-color: white;
+  border-radius: 4px;
+  padding: 1.5em;
 }
 
 a { text-decoration: none; color:#000000; }
