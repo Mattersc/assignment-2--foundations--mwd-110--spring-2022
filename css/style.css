@@ -34,12 +34,12 @@ ul{
   list-style: none
 }
 
-ul main{
+ul1{
   display: table;
 
 
 }
-li main {
+li1{
   display: table-cell;
   padding: 5px;
 }
